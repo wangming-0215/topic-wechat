@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <textarea placeholder="请输入" class="textarea" bindinput="onInput" value="{{value}}"></textarea>
+  <button class="add-topic" bindtap="onAddTopic" type="primary">添加话题</button>
+</view>

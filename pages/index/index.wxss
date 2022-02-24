@@ -1,0 +1,10 @@
+.textarea {
+  border: 1rpx solid #eee;
+  width: 100%;
+  padding: 16rpx;
+  box-sizing: border-box;
+}
+
+.add-topic {
+  margin-top: 32rpx;
+}
